@@ -1,9 +1,4 @@
----
-title: "Readme File"
-author: "jain27"
-date: "October 25, 2015"
----
-
+#"Readme File"
 
 ##Data Transformation Process
 1. Merge the training and the test sets to create one data set.
