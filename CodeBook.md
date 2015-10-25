@@ -1,8 +1,5 @@
----
-title: "CodeBook"
-author: "jain27"
-date: "October 25, 2015"
----
+
+# CodeBook
 
 ##Columns Description
 * Subject - An identifier of the subject who carried out the experiment - 30 total
