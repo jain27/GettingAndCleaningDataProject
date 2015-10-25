@@ -2,7 +2,6 @@
 title: "CodeBook"
 author: "jain27"
 date: "October 25, 2015"
-output: html_document
 ---
 
 ##Columns Description
